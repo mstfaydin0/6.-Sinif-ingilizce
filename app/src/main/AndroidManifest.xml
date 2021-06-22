@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.edebtek.mustafamuharrem.a6sinifingilizce">
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.6Sınıfİngilizce">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9455123396521751~3554195610"/>
+
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Hakkinda">
+            <intent-filter>
+                <action android:name="android.intent.action.HAKKINDA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit1">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit2">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT2" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit3">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT3" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit4">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT4" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit5">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT5" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit6">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT6" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit7">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT7" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit8">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT8" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit9">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT9" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unit10">
+            <intent-filter>
+                <action android:name="android.intent.action.UNIT10" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unitscr">
+            <intent-filter>
+                <action android:name="android.intent.action.UNITSCR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Unit1V" />
+        <activity android:name=".Unit2V" />
+        <activity android:name=".Unit3V" />
+        <activity android:name=".Unit4V" />
+        <activity android:name=".Unit5V" />
+        <activity android:name=".Unit6V" />
+        <activity android:name=".Unit7V" />
+        <activity android:name=".Unit8V" />
+        <activity android:name=".Unit9V" />
+        <activity android:name=".Unit10V" />
+
+        <activity android:name=".Unit1G" />
+        <activity android:name=".Unit2G" />
+        <activity android:name=".Unit3G" />
+        <activity android:name=".Unit5G" />
+        <activity android:name=".Unit6G" />
+        <activity android:name=".Unit7G" />
+        <activity android:name=".Unit4G" />
+        <activity android:name=".Gizlilik"></activity>
+    </application>
+
+</manifest>
