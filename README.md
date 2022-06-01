@@ -1,6 +1,6 @@
  # 6. Sınıf İngilizce
 
-2017 yılında oluşturmuş olduğum ilk projem. Basit bir şekilde ingilizce kelimeleri ve gramer bilgilerini içeren java ile yazılmış android projesidir.
+My first project that I developed using Java in 2017. This software has English course contents for secondary school students.
 
 
 
