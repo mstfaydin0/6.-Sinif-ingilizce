@@ -4,6 +4,6 @@ My first project that I developed using Java in 2017. This software has English 
 
 
 
-## Link
+## Google Play Link
 
-https://play.google.com/store/apps/details?id=com.edebtek.mustafamuharrem.a6sinifingilizce
+[**6. Sınıf İngilizce**](https://play.google.com/store/apps/details?id=com.edebtek.mustafamuharrem.a6sinifingilizce)
